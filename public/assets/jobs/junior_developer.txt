@@ -1,0 +1,61 @@
+ROLE: Junior Full Stack Developer - Intern
+
+DESCRIPTION:
+Come work at a place where innovation and teamwork come together to support the most exciting missions in the world!
+
+
+POSITION SUMMARY:
+As a Junior Full Stack Developer, you will be working as a core member of the Lets Gtok Core Team, responsible for the design and development of new & existing features and components, as well as the automation necessary to test and deploy new tools & features within the organisation. You are responsible for participating in the production of new ideas, writing code, and responsible for following Agile software development practices in the team.
+
+Full Stack Developers are responsible for developing and designing front end web architecture, ensuring the responsiveness of applications and working alongside graphic designers for web design features, among other duties. Full Stack Developers will be required to see out a project from conception to final product, requiring good organisational skills and attention to detail.
+
+
+PRIMARY RESPONSIBILITIES:
+
+Developing front end application architecture.
+Designing user interactions.
+Developing micro-service architecture.
+Creating servers and databases for functionality.
+Ensuring cross-platform optimization for mobile phones.
+Ensuring responsiveness of applications.
+Working alongside graphic designers for web design features.
+Seeing through a project from conception to finished product.
+Designing and developing APIs.
+Meeting both technical and consumer needs.
+Stay up-to-date on relevant industry trends and best practices and constantly exchange ideas.
+Represent the Lets Gtok as a member of the core team and participate in these efforts as required.
+Perform other related duties as assigned.
+
+
+KNOWLEDGE, SKILLS AND ABILITIES:
+
+Good knowledge of web technologies including HTTP, HTML, CSS, Bootstrap, JavaScript, ReactJs, NodeJs.
+REST based webservices development, microservices, and other related technologies.
+Handful experience with Firebase/Google Cloud Platform tools like hosting, authentication, firestore, cloud functions, pubsub etc.
+Fluent in writing unit tests and integration tests.
+Basic knowledge on bash scripts.
+Must have knowledge on version management tools like Github.
+Ability to quickly learn and adopt new technologies.
+Ability to work well independently and on a cross-functional team.
+Excellent communication, problem-solving, planning and organization skills.
+
+
+QUALIFICATIONS:
+
+Having any degree in computer/engineering related field is preferred but not mandatory.
+Good real-time experience is required.
+Experience with any of the following is a plus:
+Python3, Hyperledger, Blockchain platforms, Cryptography, NGINX, AWS SageMaker
+
+
+PERKS:
+- Internship certificate
+- Experience letter at the end of internship
+- Flexible work hours, work from home
+- High-risk, high-reward opportunities
+- Chance to learn and be exposed to all sorts of challenges
+- Opportunity to work on problems that are part of our company's core
+- Company equity (*subject to work performance)
+- Recommendation letter (*subject to work performance)
+
+Note: This is an unpaid internship position. Current graduates are preferred.
